@@ -11,5 +11,11 @@ Below are the screenshots from the case study
 
 ![Screenshot (960)](https://user-images.githubusercontent.com/46881796/110838126-1ad26c00-82c8-11eb-8efd-e5f787931dbf.png)
 
+Values in the training_variants
+
 ![Screenshot (962)](https://user-images.githubusercontent.com/46881796/110838378-6422bb80-82c8-11eb-8491-9272c23850b9.png)
+
+values in the training_text
+
+![Screenshot (963)](https://user-images.githubusercontent.com/46881796/110838902-02168600-82c9-11eb-9251-057a79ea37e7.png)
 
