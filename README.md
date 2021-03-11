@@ -29,3 +29,22 @@ Confusion Matrix for the Naive Bayes Model
 After testing with KNN Model 
 
 ![Screenshot (971)](https://user-images.githubusercontent.com/46881796/110839681-d8aa2a00-82c9-11eb-911a-c6f50477cc22.png)
+
+![Screenshot (972)](https://user-images.githubusercontent.com/46881796/110839833-02fbe780-82ca-11eb-9970-25311d362c44.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
