@@ -22,3 +22,6 @@ values in the training_text
 Confusion Matrix for the Naive Bayes Model 
 
 ![Screenshot (965)](https://user-images.githubusercontent.com/46881796/110839376-7b15dd80-82c9-11eb-8fc9-5daafa32ba4f.png)
+
+
+![Screenshot (968)](https://user-images.githubusercontent.com/46881796/110839541-ad273f80-82c9-11eb-8cfe-674ced1d03a6.png)
