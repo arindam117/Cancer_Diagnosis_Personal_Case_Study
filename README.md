@@ -11,3 +11,5 @@ Below are the screenshots from the case study
 
 ![Screenshot (960)](https://user-images.githubusercontent.com/46881796/110838126-1ad26c00-82c8-11eb-8efd-e5f787931dbf.png)
 
+![Screenshot (962)](https://user-images.githubusercontent.com/46881796/110838378-6422bb80-82c8-11eb-8491-9272c23850b9.png)
+
