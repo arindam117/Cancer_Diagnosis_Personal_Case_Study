@@ -34,7 +34,19 @@ After testing with KNN Model
 
 ![Screenshot (973)](https://user-images.githubusercontent.com/46881796/110839939-2757c400-82ca-11eb-81a6-3fcbc89f128f.png)
 
+After Implementing Logistic Regression Classifier 
 
+![Screenshot (975)](https://user-images.githubusercontent.com/46881796/110840163-6ab23280-82ca-11eb-9e84-4539ca8bfd39.png)
+
+
+Plotting the confusion matrix 
+
+![Screenshot (978)_LR_CONFUSION](https://user-images.githubusercontent.com/46881796/110840552-dbf1e580-82ca-11eb-9357-b5c394deb980.png)
+
+![Screenshot (976)](https://user-images.githubusercontent.com/46881796/110840205-7867b800-82ca-11eb-8399-598a6d2a314e.png)
+
+
+![Screenshot (977)](https://user-images.githubusercontent.com/46881796/110840240-80bff300-82ca-11eb-994d-b743d8a84cbe.png)
 
 
 
