@@ -32,7 +32,7 @@ After testing with KNN Model
 
 ![Screenshot (972)](https://user-images.githubusercontent.com/46881796/110839833-02fbe780-82ca-11eb-9970-25311d362c44.png)
 
-
+![Screenshot (973)](https://user-images.githubusercontent.com/46881796/110839939-2757c400-82ca-11eb-81a6-3fcbc89f128f.png)
 
 
 
