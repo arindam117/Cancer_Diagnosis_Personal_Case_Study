@@ -9,3 +9,5 @@ Below are the screenshots from the case study
 
 ![Screenshot (959)](https://user-images.githubusercontent.com/46881796/110838003-f70f2600-82c7-11eb-952a-e8998dec9ab7.png)
 
+![Screenshot (960)](https://user-images.githubusercontent.com/46881796/110838126-1ad26c00-82c8-11eb-8efd-e5f787931dbf.png)
+
